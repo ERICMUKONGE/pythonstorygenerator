@@ -1,4 +1,6 @@
 import random
+
+
 print("Hello readername")
 
 readername = input("What is your name?\n")
